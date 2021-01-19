@@ -1,0 +1,42 @@
+h1{
+    color: green;
+    font-family: sans-serif
+}
+p{
+    color: coral;
+    font-family: sans-serif
+}
+
+ul{
+    list-style-image: url(images/pointer-icon.png);
+}
+
+ol{
+    list-style-type: upper-roman;
+}
+
+#menu-bar a{
+    font-family: Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+#menu-bar a:hover{
+    background-color: aqua;
+    color: #ffffff;
+}
+
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #2695A6;
+}
+
+th{
+    font-weight: 800;
+    background-color: palegoldenrod;
+    color: #ffffff;
+}
